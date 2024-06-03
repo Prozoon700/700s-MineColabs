@@ -4,8 +4,10 @@
    <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-green">
    <img src="https://img.shields.io/github/stars/prozoon700?style=social">
 </p>
+<p align="center">
 This is a modificated version of MineColab (original by: <a href="https://github.com/thecoder-001/MineColab">thecoder-001</a>), optimized, prepared for Forge and "with a UI".
 This version is created by Prozoon700 and originaly made in Spanish!
+</p>
 <h4 align="center">
 :construction: Project in development, if you find some issue or have any suggestion please add it to the <a href="https://github.com/Prozoon700/700s-MineColabs/issues">issues area</a>
 </h4>

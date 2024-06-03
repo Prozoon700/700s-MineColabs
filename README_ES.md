@@ -11,7 +11,7 @@ Esta versión fue creada por Prozoon700 y originalmente hecha en español.
 <h4 align="center">
 :construction: Proyecto en desarrollo, si encuentras algún problema o tienes alguna sugerencia, por favor añádelo en el <a href="https://github.com/Prozoon700/700s-MineColabs/issues">área de issues</a>
 </h4>
-
+<p align="center"><a href="https://colab.research.google.com/github/Prozoon700/700s-MineColabs/blob/main/700s-MineColabs.ipynb" target="_parent"><img align="center" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir en Google Colab"></a></p>
 <br>
 
 ## :hear_no_evil:  Primero que todo, ¿qué es Google Colab?

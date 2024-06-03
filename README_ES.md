@@ -74,7 +74,7 @@ Al final, esta es solo mi opinión personal y puede ignorarse con seguridad. Sim
      | `PlayIt`  | Gratis | [Web](https://playit.gg)  | - Transferencia de datos ilimitada. <br> - Conexión sencilla del tablero. | - Región global, premium para cambiar. <br> - Peor conectividad y tiempos en algunos casos.  |
      | `Cloudflared` | Gratis y de pago | [GitHub](https://github.com/cloudflare/cloudflared) | - Transferencia de datos ilimitada. <br> - Múltiples subdominios. | - Difícil de instalar. <br> - Necesitas un dominio. |
      
-      *El tema de facturación asegura que puedes jugar mayormente mejor sin pagar nada.
+      *El tema de facturación asegura que puedes jugar mayormente bien sin pagar nada.
    - Región -> Solo necesario cuando se usa el agente ngrok.
    - PlayitMessages (1,2,3) -> Solo necesario cuando se usa PlayIt y se quieren eliminar los mensajes personalizados que PlayIt envía a la consola.
    <br>

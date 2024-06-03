@@ -11,7 +11,7 @@ This version is created by Prozoon700 and originaly made in Spanish!
 <h4 align="center">
 :construction: Project in development, if you find some issue or have any suggestion please add it to the <a href="https://github.com/Prozoon700/700s-MineColabs/issues">issues area</a>
 </h4>
-<a href="https://colab.research.google.com/github/Prozoon700/700s-MineColabs/blob/main/700s-MineColabs.ipynb" target="_parent"><img align="center" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+<p align="center"><a href="https://colab.research.google.com/github/Prozoon700/700s-MineColabs/blob/main/700s-MineColabs.ipynb" target="_parent"><img align="center" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a></p>
 
 <br>
 

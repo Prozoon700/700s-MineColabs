@@ -9,15 +9,15 @@ This version is created by Prozoon700 and originaly made in Spanish!
 :construction: Project in development, if you find some issue or have any suggestion please add it to the [issues area](https://github.com/Prozoon700/700s-MineColabs/issues)
 </h4>
 
-## :page_with_curl: Índice
+## :page_with_curl: Index
 
  - [Title](#Title)
 
- - [Characteristics](#Characteristics)
+ - [Characteristics](#_:hammer:_Characteristics)
 
- - [How to use it](#Tutorial)
+ - [How to use it](#_:file_folder:_Tutorial)
   
- - [The Project's Future](#The Project's Future)
+ - [The Project's Future](#_:crystal_ball:_The_Project's_Future)
 
 # :hammer: Characteristics
  - Elige el enlace que prefieras, puedes hacer click derecho en el vídeo y copiar el enlace, darle a la opción compartir y copiar el enlace, o copiar el enlace de embed, ¡como tu prefieras!.

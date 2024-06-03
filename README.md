@@ -73,7 +73,7 @@ In the end, it is just my personal opinion and can be ignored safely. Just ask y
      | `PlayIt`  | Free | [Web](https://playit.gg)  | - Unlimited data transference. <br> - Simple dashboard connection. | - Global region, premium to change. <br> - Worst connectivity and timing in some cases.  |
      | `Cloudflared` | Free and paid | [GitHub](https://github.com/cloudflare/cloudflared) | - Unlimited data transference. <br> - Multiple sub-domains. | - Difficult to install. <br> - You need a domain. |
      
-      *Billing topic ensures that you can play mostly better without paying anything.
+      *Billing topic ensures that you can play mostly good without paying anything.
    - Region -> Only necessary when using ngrok agent.
    - PlayitMessages (1,2,3) -> Only necessary when using PlayIt and want to delete the custom messages PlayIt spams on the console.
    <br>

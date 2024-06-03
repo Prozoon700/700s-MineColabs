@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/thecoder-001/MineColab/blob/master/Logo.png" alt="Logo" height="80"/></p>
 <h1 align="center">700's MineColabs</h1>
  <p align="center">
-   <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-orange">
+   <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-yellow">
    <img src="https://img.shields.io/github/stars/prozoon700?style=social">
 </p>
 <p align="center">

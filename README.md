@@ -110,7 +110,8 @@ In the end, it is just my personal opinion and can be ignored safely. Just ask y
   - Write in the terminal the following command: `op {your-nametag}`
 - How much time will my server stay on?
   - Commonly a server can be at a maximum of 12 hours after being stopped if any external feature it's acting on the server's start up time.
-  - You can check this by going to the `Top Menu` > `Runtime Environment` > `See Resources` > `Below the title menu or the resources graph`
+  - You can check this by following this steps:
+  - `Top Menu` > `Runtime Environment` > `See Resources` > `Below the title menu or the resources graph`
 # :crystal_ball: The Project's Future
 - I would firstly like to have some guys that want to test out the beta versions so I can easily found bugs and solve them (and I'm also capable of touching grass🌿).
 - The project should and must be continued, so I'll do my best to update it and solve the bugs that you and I find out.

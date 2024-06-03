@@ -3,7 +3,7 @@
  <p align="center">
    <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-green">
    <img src="https://img.shields.io/github/stars/prozoon700?style=social">
-   <a href="https://colab.research.google.com/github/Prozoon700/700s-MineColabs/releases/download/v1.0b/700s-MineColabs.ipynb" target="_parent"><img align="center" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+   <a href="https://colab.research.google.com/github/Prozoon700/700s-MineColabs/blob/main/700s-MineColabs.ipynb" target="_parent"><img align="center" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
 </p>
 <p align="center">

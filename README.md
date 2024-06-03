@@ -12,6 +12,8 @@ This version is created by Prozoon700 and originaly made in Spanish!
 :construction: Project in development, if you find some issue or have any suggestion please add it to the <a href="https://github.com/Prozoon700/700s-MineColabs/issues">issues area</a>
 </h4>
 
+<br>
+
 ## :hear_no_evil:  First of all, what is google Colab?
 As the official FAQ says, colaboratory, or “Colab” for short, is a product from Google Research. Colab allows anybody to write and execute arbitrary python code through the browser, and is especially well suited to machine learning, data analysis and education. More technically, Colab is a hosted Jupyter notebook service that requires no setup to use, while providing free access to computing resources including GPUs.
 In short, it is a vm provided for learning, running python code, machine learning or for general purpose.

@@ -3,6 +3,8 @@
  <p align="center">
    <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-green">
    <img src="https://img.shields.io/github/stars/prozoon700?style=social">
+   <a href="https://colab.research.google.com/github/thecoder-001/MineColab/blob/master/MineColab.ipynb" target="_parent"><img align="center" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+
 </p>
 <p align="center">
 This is a modificated version of MineColab (original by: <a href="https://github.com/thecoder-001/MineColab">thecoder-001</a>), optimized, prepared for Forge and "with a UI".

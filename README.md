@@ -29,8 +29,8 @@ In the end, it is just my personal opinion and can be ignored safely. Just ask y
 # :hammer: Characteristics
  - **Forge Compatibility:** MineColab is now compatible with almost any version of Forge.
    - *What does it mean?* You can now include mods on your servers. Important: Produces Lag and Ping of 1 to 4 seconds of delay in response time.
-   - Tested with Minecraft versions: 1.12.2, 1.18.2, 1.20.1, 1.20.2
-   - Tested with Forge versions: 14.23.5.2859, 40.2.0, 47.2.0, 48.1.0
+   - Tested with Minecraft versions: 1.18.2, 1.20.1, 1.20.2
+   - Tested with Forge versions: 40.2.0, 47.2.0, 48.1.0
 
  - **Performance improvement:** After a long time of development and searching, I have optimized the server with Java Flags, improving performance considerably.
    - *What does it mean?* Now the server works better, it usually does not have lag or delay in response (Playing with Paper).
@@ -84,6 +84,11 @@ In the end, it is just my personal opinion and can be ignored safely. Just ask y
 8. To stop your server first try running the stop command on the terminal.
    -  If the server restarts (after confirming that the worlds and data are saved) you can force stop the server by stopping the cell execution.
 
+# :red_circle: Unsupported / Not working
+| Issue  | Affected | Simple description | Tecnical Description | In Development |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| `Forge 1.13.2 and lower`  | Minecraft servers running 1.13.2 and lower versions with Forge | The working method of Forge changes and because of, I need another way to execute the code. | This versions doesn't have an unix-args compatible with the java runtime enviroment. | YES |
+
 # :question: FAQ
 - The server does not start.
   - Check if the files have been created.
@@ -113,6 +118,12 @@ In the end, it is just my personal opinion and can be ignored safely. Just ask y
   - Commonly a server can be at a maximum of 12 hours after being stopped if any external feature it's acting on the server's start up time.
   - You can check this by following this steps:
   - `Top Menu` > `Runtime Environment` > `See Resources` > `Below the title menu or the resources graph`
+ 
+# :open_file_folder: Upcoming features
+| Feature  | Description | State |
+| ------------- | ------------- | ------------- |
+| `Forge 1.13.2 and lower`  | Tailscale is a very fast tunnel agent that allows player to directly connect to the server, making a fast connection. | Planned |
+
 # :crystal_ball: The Project's Future
 - I would firstly like to have some guys that want to test out the beta versions so I can easily found bugs and solve them (and I'm also capable of touching grass🌿).
 - The project should and must be continued, so I'll do my best to update it and solve the bugs that you and I find out.

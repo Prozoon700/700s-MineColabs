@@ -87,7 +87,7 @@ In the end, it is just my personal opinion and can be ignored safely. Just ask y
 # :red_circle: Unsupported / Not working
 | Issue  | Affected | Simple description | Tecnical Description | In Development |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| `Forge 1.13.2 and lower`  | Minecraft servers running 1.13.2 and lower versions with Forge | The working method of Forge changes and because of, I need another way to execute the code. | This versions doesn't have an unix-args compatible with the java runtime enviroment. | YES |
+| `Forge lower versions`  | Minecraft servers running 1.13.2 and lower versions with Forge | The working method of Forge changes and because of, I need another way to execute the code. | This versions doesn't have an unix-args compatible with the java runtime enviroment. | YES |
 
 # :question: FAQ
 - The server does not start.
@@ -122,7 +122,7 @@ In the end, it is just my personal opinion and can be ignored safely. Just ask y
 # :open_file_folder: Upcoming features
 | Feature  | Description | State |
 | ------------- | ------------- | ------------- |
-| `Forge 1.13.2 and lower`  | Tailscale is a very fast tunnel agent that allows player to directly connect to the server, making a fast connection. | Planned |
+| `Tailscale agent`  | Tailscale is a very fast tunnel agent that allows player to directly connect to the server, making a fast connection. | Planned |
 
 # :crystal_ball: The Project's Future
 - I would firstly like to have some guys that want to test out the beta versions so I can easily found bugs and solve them (and I'm also capable of touching grass🌿).

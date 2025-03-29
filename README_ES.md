@@ -1,3 +1,5 @@
+> [!IMPORTANT]  
+> Este repositorio ha quedado **obsoleto** para continuar con el desarrollo de [MineColab Improved](https://github.com/N-aksif-N/MineColab_Improved). Échale un ojo si te gustaría hostear tu propio servidor de Minecraft en Google Colab con el mejor rendimiento y de forma gratuita.
 <p align="center"><img src="https://github.com/thecoder-001/MineColab/blob/master/Logo.png" alt="Logo" height="80"/></p>
 <h1 align="center">700's MineColabs</h1>
  <p align="center">

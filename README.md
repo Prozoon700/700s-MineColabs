@@ -1,5 +1,5 @@
 > [!IMPORTANT]  
-> This repository has been **deprecated** to continue with the development of [MineColab Improved](https://github.com/N-aksif-N/MineColab_Improved). Check it to host your own Minecraft servers on Google Colab easily and with the best runtime performance.
+> This repository has been **deprecated** to continue with the development of [MineColab Improved](https://github.com/N-aksif-N/MineColab_Improved). Check it to host your own Minecraft servers on Google Colab easily and free.
 <p align="center"><img src="https://github.com/thecoder-001/MineColab/blob/master/Logo.png" alt="Logo" height="80"/></p>
 <h1 align="center">700's MineColabs</h1>
  <p align="center">
